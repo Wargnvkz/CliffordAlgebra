@@ -1,0 +1,6 @@
+d:\warg\prj\Clifford\clifford\CliffordElement\bin\Debug\CliffordElement.dll
+d:\warg\prj\Clifford\clifford\CliffordElement\bin\Debug\CliffordElement.pdb
+d:\warg\prj\Clifford\clifford\CliffordElement\obj\Debug\CliffordElement.csproj.CoreCompileInputs.cache
+d:\warg\prj\Clifford\clifford\CliffordElement\obj\Debug\CliffordElement.dll
+d:\warg\prj\Clifford\clifford\CliffordElement\obj\Debug\CliffordElement.pdb
+d:\warg\prj\Clifford\clifford\CliffordElement\obj\Debug\CliffordElement.csprojAssemblyReference.cache

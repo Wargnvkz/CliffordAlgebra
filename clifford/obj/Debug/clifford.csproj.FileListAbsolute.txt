@@ -1,0 +1,8 @@
+d:\warg\prj\Clifford\clifford\clifford\bin\Debug\clifford.exe
+d:\warg\prj\Clifford\clifford\clifford\bin\Debug\clifford.pdb
+d:\warg\prj\Clifford\clifford\clifford\obj\Debug\clifford.csprojAssemblyReference.cache
+d:\warg\prj\Clifford\clifford\clifford\obj\Debug\clifford.Properties.Resources.resources
+d:\warg\prj\Clifford\clifford\clifford\obj\Debug\clifford.csproj.GenerateResource.cache
+d:\warg\prj\Clifford\clifford\clifford\obj\Debug\clifford.csproj.CoreCompileInputs.cache
+d:\warg\prj\Clifford\clifford\clifford\obj\Debug\clifford.exe
+d:\warg\prj\Clifford\clifford\clifford\obj\Debug\clifford.pdb
